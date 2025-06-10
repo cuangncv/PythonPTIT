@@ -1,0 +1,1 @@
+print("yes" if input().strip().lower().endswith(".py") else "no")
